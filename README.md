@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kishori8
 - 👀 I’m interested in UX
-- 🌱 I’m currently learning HTML, CSS, Javascript
+- 🌱 I’m currently learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
